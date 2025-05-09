@@ -1,7 +1,7 @@
 import { produce } from "immer";
 import { ActionTypes } from "./actions";
 
-// immer serve para trabalhar com conceitos de imutabilidade
+// immer serve para trabalhar com conceitos de imutabilidade do react
 
 export interface Cycle {
   id: string;
